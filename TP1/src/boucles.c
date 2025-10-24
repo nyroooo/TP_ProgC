@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int compteur = 5; // Tu peux changer cette valeur (< 10)
+    int compteur = 9; // Tu peux changer cette valeur (< 10)
 
     if (compteur >= 10) {
         printf("Erreur : la valeur du compteur doit être inférieure à 10.\n");
@@ -23,3 +23,4 @@ int main() {
 
     return 0;
 }
+
